@@ -50,11 +50,7 @@ Simply open index.html in your favorite browser.
 No server setup required.
 
 🌐 Live Demo
-👉 Graph Visualizer on GitHub Pages
-
-📷 Screenshots
-
-(Add your own screenshot here)
+[👉 Graph Visualizer on GitHub Pages](https://kruthik1983.github.io/GraphVisualizer/)
 
 🛠️ Technologies Used
 HTML5 Canvas for rendering graphs
